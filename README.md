@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://www.jordanbraz.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IsJordanBraz/IsJordanBraz/prod/github-header-image.png" alt="my banner"></a>
-</p>
-
 <h3 align="center">
 Hi there, I'm <a href="https://www.jordanbraz.com/" target="_blank" rel="noreferrer">Jordan Braz</a> 👋
 </h3>
