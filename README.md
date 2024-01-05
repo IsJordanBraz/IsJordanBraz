@@ -1,27 +1,3 @@
-<h3 align="center">
-Hi there, I'm <a href="https://www.jordanbraz.com/" target="_blank" rel="noreferrer">Jordan Braz</a> 👋
-</h3>
-
-<h2 align="center">
-I'm a Fullstack Web Developer!
-</h2> 
-
-I love how websites work and the feeling of creating something with my own hands, I'm passionate about technology and artificial intelligence.
-
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/isjordanbraz/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Jordan Braz | LinkedIn" width="21px"/></a>
-
-</br>
-
-## 🔭 I'm currently working on
-
-- Freelancer as Angular and React Native developer
-
-## 🌱 I'm currently learning
-
-- ROADMAP to become a tech lead.
-
 ## 💼 Technical Skills
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
